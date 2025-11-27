@@ -86,5 +86,6 @@ __OUTPUT:__
 
 <img width="1915" height="1078" alt="image" src="https://github.com/user-attachments/assets/aa77167e-96b7-4330-b301-073fa734d5dd" />
 
-__RESULT:__The autocorrelation function of the signal was successfully computed and plotted. The Power Spectral Density (PSD) obtained from the FFT of the autocorrelation verified the Wiener-Khinchin relation.
+__RESULT:__
+The autocorrelation function of the signal was successfully computed and plotted. The Power Spectral Density (PSD) obtained from the FFT of the autocorrelation verified the Wiener-Khinchin relation.
 <img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/286a6066-8aa4-46bf-b9c6-fc552ad3b9ba" />
